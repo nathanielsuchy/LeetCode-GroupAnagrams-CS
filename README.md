@@ -4,7 +4,7 @@ A solution for LeetCode "Group Anagrams" in C#
 ## Explanation
 In this problem you are given an array of strings and asked to return it as a list of lists of strings that are anagrams.
 
-One solution to this problem involves creating a unique counters hashmap for each anagram although this creates a lot of lists to compare againist. Neatcode made a [video](https://www.youtube.com/watch?v=vzdNOK2oB2E) on this if you're interested in his solution. In C# this could result in some weird looking code and decided I can do better. My solution is faster than 76% of submissions and uses less memory than 95.34% of submissions.
+One solution to this problem involves creating a unique counters hashmap for each anagram although this creates a lot of lists to compare againist. Neetcode made a [video](https://www.youtube.com/watch?v=vzdNOK2oB2E) on this if you're interested in his solution. In C# this could result in some weird looking code and decided I can do better. My solution is faster than 76% of submissions and uses less memory than 95.34% of submissions.
 
 My solution works as follows:
 
